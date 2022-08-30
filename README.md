@@ -7,4 +7,5 @@ A curated list of awesome cloud native tools glossaries/wiki.
 * https://glossary.cncf.io/
 * https://docs.datadoghq.com/tracing/glossary/
 * https://www.aquasec.com/cloud-native-academy/
-https://docs.ansible.com/ansible/latest/reference_appendices/glossary.html
+* https://docs.ansible.com/ansible/latest/reference_appendices/glossary.html
+* https://opentelemetry.io/docs/concepts/glossary/
