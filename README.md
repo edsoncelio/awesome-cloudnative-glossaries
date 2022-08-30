@@ -1,6 +1,6 @@
 # Awesome Cloud Native Tools Glossaries/Wiki
 
-A curated list of awesome cloud native glossaries.
+A curated list of awesome cloud native tools glossaries/wiki.
 
 * https://www.pulumi.com/learn/glossary/
 * https://www.terraform.io/docs/glossary
